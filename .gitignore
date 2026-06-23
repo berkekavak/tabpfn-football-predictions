@@ -3,3 +3,5 @@ predictions_2*.csv
 __pycache__/
 *.pyc
 .venv/
+README.md
+predict.py
